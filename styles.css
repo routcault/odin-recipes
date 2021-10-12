@@ -9,3 +9,8 @@ img {
     display: flex;
     margin: auto;
 }
+
+ul,
+ol {
+    border: 2px solid black;
+}
