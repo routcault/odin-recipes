@@ -18,3 +18,10 @@ ol {
 * {
     background-color:palegreen;
 }
+
+button {
+    background-color: gray;
+    color: gray;
+    font-size: 16px;
+    font-weight:700;
+}
